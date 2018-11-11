@@ -117,7 +117,7 @@ a:focus {
         background-color: #000;
     }
 
-    .navbar-custom.top-nav-collapse {
+    .navbar-custom .top-nav-collapse {
         border-bottom: 1px solid rgba(255,255,255,.3);
     }
 }
@@ -150,6 +150,7 @@ a:focus {
 
 .intro-text {
     font-size: 18px;
+    color: grey;
 }
 
 @media(min-width:767px) {
@@ -166,6 +167,8 @@ a:focus {
         font-size: 25px;
     }
 }
+
+/* Button Stylings*/
 
 .btn-circle {
     width: 70px;
