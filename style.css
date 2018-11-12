@@ -1,3 +1,5 @@
+/* Constant Stylings */
+
 body {
     width: 100vw;
     height: 100vh;
@@ -161,27 +163,7 @@ a:focus {
     }
 }
 
-/* Button Stylings*/
-
-.btn-circle {
-    width: 70px;
-    height: 70px;
-    margin-top: 15px;
-    padding: 7px 16px;
-    border: 2px solid #fff;
-    border-radius: 35px;
-    font-size: 40px;
-    color: #fff;
-    background: 0 0;
-    transition: background .3s ease-in-out;
-}
-
-.btn-circle:hover,
-.btn-circle:focus {
-    outline: 0;
-    color: #fff;
-    background: rgba(255,255,255,.1);
-}
+/* Section Stylings */
 
 .content-section {
     display: table;
@@ -214,6 +196,28 @@ a:focus {
     .download-section {
         padding: 100px 0;
     }
+}
+
+/* Button Stylings*/
+
+.btn-circle {
+    width: 70px;
+    height: 70px;
+    margin-top: 15px;
+    padding: 7px 16px;
+    border: 2px solid #fff;
+    border-radius: 35px;
+    font-size: 40px;
+    color: #fff;
+    background: 0 0;
+    transition: background .3s ease-in-out;
+}
+
+.btn-circle:hover,
+.btn-circle:focus {
+    outline: 0;
+    color: #fff;
+    background: rgba(255,255,255,.1);
 }
 
 .btn {
