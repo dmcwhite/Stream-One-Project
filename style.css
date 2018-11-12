@@ -120,6 +120,7 @@ a:focus {
     .navbar-custom .top-nav-collapse {
         border-bottom: 1px solid rgba(255,255,255,.3);
     }
+  }
 
 /* Intro Stylings*/
 
@@ -172,7 +173,7 @@ a:focus {
     display: table;
     width: 100vw;
     height: 100vh;
-    padding: 300px 0;
+    padding: 100px 0;
     text-align: center;
 }
 
@@ -180,7 +181,7 @@ a:focus {
     display: table;
     width: 100vw;
     height: 100vh;
-    padding: 300px 0;
+    padding: 200px 0;
     text-align: center;
     color: #fff;
     background:  linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url("https://images.unsplash.com/photo-1445160307478-288488e5da27?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0e123768ccb34711db3a8ad224973512&auto=format&fit=crop&w=1350&q=80") no-repeat center center scroll;
