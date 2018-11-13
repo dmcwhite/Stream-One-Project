@@ -184,7 +184,7 @@ a:focus {
     padding: 200px 0;
     text-align: center;
     color: #fff;
-    background:  linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url("https://images.unsplash.com/photo-1445160307478-288488e5da27?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0e123768ccb34711db3a8ad224973512&auto=format&fit=crop&w=1350&q=80") no-repeat center center scroll;
+    background:  linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url("https://images.unsplash.com/photo-1502123582795-1cecc876ec04?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c9c4e16ffe70b180193414550dd6bf64&auto=format&fit=crop&w=1834&q=80") no-repeat center center scroll;
     background-position: center center;
     background-repeat: no-repeat;
     background-color: #000;
@@ -283,3 +283,4 @@ a:focus {
 img::selection {
     background: 0 0;
 }
+
