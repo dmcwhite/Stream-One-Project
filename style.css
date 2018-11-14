@@ -112,6 +112,11 @@ a:focus {
         transition: background .5s ease-in-out,padding .5s ease-in-out;
     }
 
+    .navbar-collapse,
+    .collapse{
+        float: right;
+    }
+
     .top-nav-collapse {
         padding: 0;
         background-color: #000;
@@ -173,7 +178,7 @@ a:focus {
     display: table;
     width: 100vw;
     height: 100vh;
-    padding: 100px 0;
+    padding: 50px 0;
     text-align: center;
 }
 
@@ -283,4 +288,3 @@ a:focus {
 img::selection {
     background: 0 0;
 }
-
