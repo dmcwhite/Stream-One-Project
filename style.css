@@ -112,11 +112,6 @@ a:focus {
         transition: background .5s ease-in-out,padding .5s ease-in-out;
     }
 
-    .navbar-collapse,
-    .collapse{
-        float: right;
-    }
-
     .top-nav-collapse {
         padding: 0;
         background-color: #000;
